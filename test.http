@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/products
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": "102AB",
+  "name": "Laptop",
+  "quantity": 1000
+}
